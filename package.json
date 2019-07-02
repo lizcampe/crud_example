@@ -1,0 +1,21 @@
+{
+  "name": "crud_example",
+  "version": "1.0.0",
+  "main": "sequelize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "pg": "^7.11.0",
+    "sequelize": "^6.0.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
